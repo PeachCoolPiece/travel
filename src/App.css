@@ -1,3 +1,14 @@
+.main-bg{
+    height: 600px;
+    background-repeat: no-repeat;
+    background-image: url('/public/img/mainBg.jpg');
+  background-size : cover;
+  background-position: center;
+}
+
+
+
+
 .App {
   text-align: center;
 }
